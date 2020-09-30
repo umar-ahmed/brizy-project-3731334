@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/product","dest":"/product.html"},{"src":"/pricing","dest":"/pricing.html"},{"src":"/resources","dest":"/resources.html"},{"src":"/error","dest":"/error.html"},{"src":"/blog","dest":"/blog.html"},{"src":"/press","dest":"/press.html"},{"src":"/our-history","dest":"/our-history.html"}]}
